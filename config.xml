@@ -16,5 +16,5 @@
   <author href="https://build.phonegap.com" email="calete@hotmail.com">
       Andrés Suárez
   </author>
-
+<platform name="android" />
 </widget>
