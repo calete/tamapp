@@ -17,4 +17,5 @@
       Andrés Suárez
   </author>
 <platform name="android" />
+<icon src="logo-web.png" width="170" height="48" />
 </widget>
